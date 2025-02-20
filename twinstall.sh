@@ -16,4 +16,4 @@ read -p "Warte auf eingabe..."
 ssh -T git@github.com
 git clone git@github.com:Berghausa/TWB-New.git
 cd TWB-new/
-python3.9 -m pip install -r requirements.txt --break-system-packages
+python3.9 -m pip install -r requirements.txt
